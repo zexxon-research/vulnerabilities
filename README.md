@@ -8,3 +8,4 @@
 ## List of Vulnerabilities
 
 - [Business Logic](/business-logic/README.md)
+- [Privilege Escalation](/privilege-escalation/README.md)
