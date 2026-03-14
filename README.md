@@ -7,4 +7,4 @@
 
 ## List of Vulnerabilities
 
-- [Business Logic](/business-logic.md)
+- [Business Logic](/business-logic/README.md)
